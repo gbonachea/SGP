@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/launcher">
+        <file alias="lanzador.png">resources/icons/lanzador.png</file>
+        <file alias="desktop.png">resources/icons/desktop.png</file>
+    </qresource>
+</RCC>

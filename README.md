@@ -1,6 +1,8 @@
-# SGP — Stellar Galaxy Dock 🚀
+# SGP — Stellar Gravity Panel 🚀
 
-A macOS-style application dock for Linux, built with C++ and Qt6.
+<img width="1366" height="735" alt="Captura de tela de 2026-10-10 01-19-34" src="https://github.com/user-attachments/assets/01399718-dfef-4679-9e19-6036c7bc81ac" />
+
+A ChromeOS and macOS-style application dock for Linux, built with C++ and Qt6.
 
 ## Features
 
